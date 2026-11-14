@@ -1,0 +1,6 @@
+Strategy,Container Tier,Active Regions,Locations,Cost ($/month),Latency (ms)
+Cost Priority,standard-2,1,US West,56.59,112.69
+Weighted (60/40),standard-2,2,"US East, Singapore",97.64,54.23
+Balanced,standard-2,2,"US East, Singapore",97.64,54.23
+Equity,standard-2,2,"US East, Singapore",97.64,54.23
+Latency Priority,standard-2,5,"US East, US West, London, Singapore, Tokyo",220.82,15.6
