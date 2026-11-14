@@ -1,0 +1,4 @@
+parameter,rate,unit,source,accessed
+cpu_vcpu_second,2e-05,USD/vCPU-second,https://developers.cloudflare.com/containers/platform/pricing/,2026-11-14
+memory_gib_second,2.5e-06,USD/GiB-second,https://developers.cloudflare.com/containers/platform/pricing/,2026-11-14
+disk_gb_second,7e-08,USD/GB-second,https://developers.cloudflare.com/containers/platform/pricing/,2026-11-14

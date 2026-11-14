@@ -1,0 +1,26 @@
+source_region,target_region,latency_ms,packet_count
+London,London,1.854787,2805
+London,Singapore,164.66583150000002,2798
+London,Tokyo,230.014783,3881
+London,US East,70.848953,3853
+London,US West,141.3663365,2786
+Singapore,London,157.582754,4319
+Singapore,Singapore,1.0466565,3240
+Singapore,Tokyo,76.380599,4317
+Singapore,US East,223.3049695,4310
+Singapore,US West,172.340054,3240
+Tokyo,London,232.8449575,4318
+Tokyo,Singapore,69.990599,4318
+Tokyo,Tokyo,1.925081,3240
+Tokyo,US East,157.3240515,4314
+Tokyo,US West,107.8877565,4320
+US East,London,69.021372,4317
+US East,Singapore,214.799706,4309
+US East,Tokyo,166.699005,4319
+US East,US East,2.378555,3226
+US East,US West,71.05862250000001,4314
+US West,London,136.75017200000002,4320
+US West,Singapore,173.401047,3239
+US West,Tokyo,114.466037,4317
+US West,US East,68.065197,4314
+US West,US West,11.971509,3240
